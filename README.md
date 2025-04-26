@@ -45,3 +45,10 @@ Aquí están algunas de las tecnologías y herramientas con las que trabajo:
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
 </p>
 
+
+## Estadísticas de GitHub 📊
+
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=rlopezeduca&show_icons=true&theme=radical)
+
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=rlopezeduca&layout=compact&theme=radical)
+
