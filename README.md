@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, me llamo Rubén López</h1>
-<h3 align="center">Soy profesor de Informática en ciclos de formación profesional</h3>
+<h3 align="center">Soy Ingeniero Informático de formación y profesor de Formación Profesional en Informática de vocación. Entusiasta de la tecnología y la educación, me encanta aprender cosas nuevas sobre el apasionante mundo del desarrollo de software y enseñarlas, después, en el aula.</h3>
 
 🔭 Actualmente estoy trabajando en el [IES Virgen de la Paloma](https://www.palomafp.org/)
 
