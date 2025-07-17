@@ -2,10 +2,10 @@
 
 ### Soy ingeniero informático de formación y profesor de vocación. Entusiasta de la tecnología y la educación, me encanta aprender cosas nuevas sobre el apasionante mundo de la informática y el desarrollo de software y enseñarlas, después, en el aula a mis alumnos.<br>
 
-🔭 Actualmente imparto clases en los ciclos de Formación Profesional de Sistemas y Desarrollo de Aplicaciones en el [IES Virgen de la Paloma](https://www.palomafp.org/)
+Actualmente imparto clases en los ciclos de Formación Profesional de Sistemas y Desarrollo de Aplicaciones en el [IES Virgen de la Paloma](https://www.palomafp.org/)
 
 
-## Tecnologías y herramientas 🛠️
+## 🛠️ Tecnologías y herramientas 
 
 Aquí están algunas de las tecnologías y herramientas con las que trabajo:
 
@@ -35,7 +35,6 @@ Aquí están algunas de las tecnologías y herramientas con las que trabajo:
 
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>](https://aws.amazon.com) 
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" alt="GitHub Actions" width="40" height="40"/>](https://github.com/features/actions)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/junit/junit-original.svg" alt="JUnit" width="40" height="40"/>](https://junit.org/)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>](https://www.linux.org/) 
 [<img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="40" height="40"/>](https://www.gnu.org/software/bash/)
 
@@ -43,6 +42,7 @@ Aquí están algunas de las tecnologías y herramientas con las que trabajo:
 
 [<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>](https://git-scm.com/) 
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>](https://github.com/)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/junit/junit-original.svg" alt="JUnit" width="40" height="40"/>](https://junit.org/)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>](https://www.docker.com/)
 
 ### Otros
