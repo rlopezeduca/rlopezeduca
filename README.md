@@ -2,7 +2,7 @@
 
 ### Soy ingeniero informático de formación y profesor de vocación. Entusiasta de la tecnología y la educación, me encanta aprender cosas nuevas sobre el apasionante mundo de la informática y el desarrollo de software y enseñarlas, después, en el aula a mis alumnos.<br>
 
-Actualmente imparto clases en los ciclos de Formación Profesional de Sistemas y Desarrollo de Aplicaciones en el [IES Virgen de la Paloma](https://www.palomafp.org/)
+Actualmente imparto clases en los ciclos de Formación Profesional de Sistemas y Desarrollo de Aplicaciones en el [IES Virgen de la Paloma](https://www.palomafp.org/) y en varios módulos del Máster en Data Science y Big Data de la [Universidad Complutense de Madrid](https://www.ucm.es/)
 
 
 ## 🛠️ Tecnologías y herramientas 
